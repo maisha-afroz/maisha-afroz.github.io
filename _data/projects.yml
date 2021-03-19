@@ -1,0 +1,37 @@
+- name: Instagram-clone
+  url: https://instagram-clone-fab87.web.app
+  code: 
+  description: An web app that's a redesign of instagram.
+  used:
+    - thing: HTML5
+    - thing: CSS
+    - thing: SASS
+    - thing: ReactJs
+    - thing: Firebase
+    - thing: Cloud firestore
+
+- name: Furniture-rental-system
+  url: https://github.com/maisha-afroz/Furniture-rental-service
+  code: 
+  description: An ecommerce site(front-end)
+  used:
+    - thing: HTML5
+    - thing: CSS
+    - thing: Bootstrap
+    - thing: jquery
+
+- name: Pizza-order app
+  url: https://github.com/maisha-afroz/Pizza-app
+  code: 
+  description: Food order app with real-time notification with order status
+  used:
+    - thing: HTML5
+    - thing: Ejs
+    - thing: SCSS
+    - thing: NodeJs
+    - thing: ExpressJs
+    - thing: MongoDB
+
+
+
+

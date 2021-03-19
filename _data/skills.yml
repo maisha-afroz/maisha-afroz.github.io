@@ -1,0 +1,24 @@
+languages:
+  - item: JavaScript
+  - item: HTML, CSS , Sass.
+  - item: SQL
+
+frameworks:
+  - item: Bootstrap
+  - item: React
+  - item: jQuery
+  - item: Express
+  - item: Tailwind CSS
+ 
+
+database:
+  - item: MySQL
+  - item: MongoDB
+  - item: Firebase(Cloud firestore)
+
+tools:
+  - item: Git
+  - item: GitHub
+ 
+
+
