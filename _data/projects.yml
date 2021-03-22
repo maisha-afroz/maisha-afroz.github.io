@@ -11,7 +11,7 @@
     - thing: Cloud firestore
 
 - name: Furniture-rental-system
-  url: https://github.com/maisha-afroz/Furniture-rental-service
+  url: https://pedantic-hypatia-3573bc.netlify.app
   code: 
   description: An ecommerce site(front-end)
   used:
